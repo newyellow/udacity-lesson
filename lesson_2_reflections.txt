@@ -3,6 +3,33 @@ Q: What happens when you initialize a repository? Why do you need to do it?
 after init command, git will create a folder and save metadata in it. And it will use those files to track the project's changes.
 
 
+
+Q: How can you use the staging area to make sure you have one commit per logical change?
+
+we can pick the changes we want to commit, and put them into the same staging area. quite nice.
+
+
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When we want to make a big different in projects, we can use this feature. Or when multiple people is make different changes to the project, this is also helpful.
+
+
+
+
+Q: How do the diagrams help you visualize the branch structure?
+
+The visual is very clear for every commit. Just like the name "branch". And also seen the visual on github, so now i'm getting excited to learn lesson 3.
+
+
+
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+because the system will auto compare their source files. if nothing were change, the system will keep the unchange things.
+
+
+
 Q: How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
